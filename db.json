@@ -1,4 +1,4 @@
-{"test":[
+[
 	{
 		"color": "red",
 		"value": "#f00"
@@ -18,14 +18,5 @@
 	{
 		"color": "magenta",
 		"value": "#f0f"
-	},
-	{
-		"color": "yellow",
-		"value": "#ff0"
-	},
-	{
-		"color": "black",
-		"value": "#000"
 	}
-	]
-}
+]
